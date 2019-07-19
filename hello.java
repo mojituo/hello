@@ -5,5 +5,6 @@ public class Hello{
 	//测试方
 	public void test(){
 		System.out.println("这是个测试方法");
+		System.out.println("master!!!!");
 	}
 }
